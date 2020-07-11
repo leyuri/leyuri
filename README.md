@@ -4,8 +4,15 @@
 
 </div>
 
+### Yuri Lee
+Hi. This is yuri. I value what I bump into and experience. <br>
+I want to become a developer who can finish thinking and worrying in 3 seconds and immediately move to action.
 
-**Blog(developing) :** https://velog.io/@leyuri
+### Interest
+- Front-end technologies such as Html, CSS, JavaScript, React, etc.
+- Data Analysis and Visualization (Python, R)
+- Editing videos, taking photos, Drinking coffee
+- Writing, Reading, Travel, Experience something new 
 
 <!--
 **leyuri/leyuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
