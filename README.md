@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<!--**Resume :** https://hello.leyuri.com-->
+**Blog(developing) :** https://velog.io/@leyuri
+
+[` 👇 Check My Repos `](https://github.com/leyuri?tab=repositories)
 <!--
 **leyuri/leyuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
