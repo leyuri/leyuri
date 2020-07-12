@@ -11,7 +11,7 @@ I want to become a developer who can finish thinking and worrying in 3 seconds a
 ### Interest
 - Front-end technologies such as Html, CSS, JavaScript, React, etc.
 - Data Analysis and Visualization (Python, R)
-- Editing videos, taking photos, Drinking coffee
+- Editing videos, Taking photos, Drinking coffee
 - Writing, Reading, Travel, Experience something new 
 
 <!--
