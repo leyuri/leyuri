@@ -6,7 +6,6 @@
 
 ### Yuri Lee
 Hi. This is yuri. I value what I bump into and experience. <br>
-I want to become a developer who can finish thinking and worrying in 3 seconds and immediately move to action.
 
 ### Interest
 - Front-end technologies such as Html, CSS, JavaScript, React, etc.
