@@ -14,7 +14,7 @@ I like to experience something new<br>
 
 Ariana Grande & Justin Bieber
 
-**Albums**: staying
+**Albums**: 
 
 Last updated at 2020. 11. 12. 오후 5:14:50
 
