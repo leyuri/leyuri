@@ -4,37 +4,18 @@
 
 </div>
 
-### Yuri Lee
-Hi. This is yuri. I value what I bump into and experience. <br>
+## Yuri Lee
+Hi. This is yuri.
+I like to experience something new<br>
 
-### Interest
-- Front-end technologies such as Html, CSS, JavaScript, React, etc.
-- Data Analysis and Visualization (Python, R)
-- Editing videos, Taking photos, Drinking coffee
-- Writing, Reading, Travel, Experience something new 
+## Now I'm listening stuck with you 🎵🎵
 
-<!--
-**leyuri/leyuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[` 👇 Check My Repos `](https://github.com/leyuri?tab=repositories)
+[<img align="left" width="100" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Justin_Bieber_and_Ariana_Grande_-_Stuck_with_You.png">](https://www.youtube.com/watch?v=pE49WK-oNjU)
 
-Here are some ideas to get you started:
+Ariana Grande & Justin Bieber
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Albums**: staying
 
-<div align=center>
+Last updated at 2020. 11. 12. 오후 5:14:50
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/leyuri/)](https://github.com/leyuri/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-lee-a5ba8a1a0/)](https://www.linkedin.com/in/yuri-lee-a5ba8a1a0/) 
-[![Velog Badge](https://img.shields.io/badge/-Velog-%23667881?style=flat-square&logo=Bloglovin&link=https://velog.io/@leyuri)](https://velog.io/@leyuri) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006712710449)](https://www.facebook.com/profile.php?id=100006712710449) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leyuri97@gmail.com)](mailto:leyuri97@gmail.com)
-</div>
 
