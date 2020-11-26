@@ -6,7 +6,7 @@
 
 ### Yuri Lee
 Hi. This is yuri.
-I like to experience something new<br>
+I like to experience something new! 😎 <br>
 
 ### Now I'm listening stuck with you 🎵🎵
 
