@@ -1,7 +1,5 @@
-
 <!--
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -34,8 +32,9 @@ Here are some ideas to get you started:
    
     
 ### My stats
-![yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyuri&show_icons=true&theme=dracula)
-    
+![yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyuri&show_icons=true&theme=highcontrast)
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
 ### About Me
 <div align='center'>
 
@@ -43,9 +42,5 @@ Here are some ideas to get you started:
   <a href="https://velog.io/@leyuri"><img src="https://img.shields.io/badge/Tech Blog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
 <p></p>
-    
-
-
-
     
 </div>
