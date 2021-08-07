@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 -->
 <div align='center'>
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=yuri's%20GitHub&fontAlign=75&fontAlignY=40&color=gradient)
-<h2>𝗛𝗲𝗹𝗹𝗼 2021 <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="20px"></h2>
+<h2>𝗛𝗲𝗹𝗹𝗼, I'm Yuri <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="20px"></h2>
 <p></p>
 <br> 
+
   
 ### Technology Stack
 <div align='center'>
