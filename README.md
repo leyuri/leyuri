@@ -28,8 +28,12 @@ Here are some ideas to get you started:
 <div align='center'>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=NodeJs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-00599C?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
+    
    
+
     
 ### My stats
 ![yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyuri&show_icons=true&theme=highcontrast)
