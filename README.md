@@ -11,10 +11,14 @@ Here are some ideas to get you started:
 -->
 <div align='center'>
 
-<h2>𝗛𝗲𝗹𝗹𝗼, I'm Yuri <img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="20px"></h2>
+<h2><img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="10px"></h2>
 <p></p>
 <br> 
-
+  
+### Introduction
+Hello. I am yuri Lee :) 
+<br/>
+I am a developer who is interested in developing the front end.
   
 ### Technology Stack
 <div align='center'>
