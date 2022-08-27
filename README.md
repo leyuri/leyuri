@@ -9,17 +9,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <div align='center'>
 
-<h2><img src="https://github.com/dl0312/dl0312/blob/master/hi.gif?raw=true" width="10px"></h2>
-<p></p>
-<br> 
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=yuriLee&fontSize=70&animation=twinkling)
+
   
 ### Introduction
 Hello. I am yuri Lee :) 
 <br/>
 I am a developer who is interested in developing the front end.
-  
+
+<br/>
+
 ### Technology Stack
 <div align='center'>
   <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><span>
@@ -44,10 +47,14 @@ I am a developer who is interested in developing the front end.
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
 
+<br/>
+
 ### My stats
 ![yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyuri&show_icons=true&theme=gruvbox&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
     
+<br/>
+
 ### About Me
 <div align='center'>
 
