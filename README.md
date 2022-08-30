@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <div align='center'>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=yuriLee&fontSize=70&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=yuriLee&fontSize=70&animation=twinkling) -->
 
   
 ### Introduction
@@ -54,13 +54,21 @@ I am a developer who is interested in developing the front end.
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
     
 <br/>
+    
+### My Blog
+<p align="center">
+  one ↗ <a href="https://velog.io/@leyuri"><img src="https://img.shields.io/badge/Tech Blog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  </a>
+  <br/>
+  two ↗ <a href="https://steady-learner.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://steady-learner.tistory.com"/>
+  </a> 
+</p>
 
-### About Me
+### Contact Me
 <div align='center'>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leyuri97@gmail.com)](mailto:leyuri97@gmail.com)
-  <a href="https://velog.io/@leyuri"><img src="https://img.shields.io/badge/Tech Blog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
-<p></p>
     
+
 </div>
