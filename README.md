@@ -49,11 +49,6 @@ I am a developer who is interested in developing the front end.
 
 <br/>
 
-### My stats
-![yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyuri&show_icons=true&theme=gruvbox&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
-<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-    
-<br/>
     
 ### My Blog
 <p align="center">
